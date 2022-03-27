@@ -1,0 +1,2 @@
+# MVAST
+The project community dispatches a marketplace where everybody can sell their item and receive payment in crypto-resource. Venders reserve the privilege to get payment in a few cryptos. Everybody can trade valuable things by involving their resource in crypto without paying any platform commission. The project group assists with posting their item and do promote with an insignificant expense that assists vender with selling their item at a negligible expense.
